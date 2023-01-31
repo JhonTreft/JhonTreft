@@ -1,4 +1,4 @@
-<strong> 👾 Hello , Mi Nombre Es Jhon Stiven(Treft) ,Y Soy Apasionado A La Programacion 🌘 <strong>
+<strong> 👾 Hello , Mi Nombre Es Jhon Stiven(Treft) ,Y Soy Un Apasionado A La Programacion 🌘 <strong>
 
 <h2 align="center"> 🪵Acerca De Mi</h2>
 
