@@ -1,5 +1,4 @@
 <h1 align="center"> 👾 Jhon Stiven, alias "Treft" ,Desarrollador Full-Stack 🌘 <h1>
-
 <h2 align="center"> 🪵Acerca De Mi🪵</h2>
 
 ```rust
