@@ -1,6 +1,6 @@
 <h3 align="center"> 👾 Jhon Stiven, alias "Treft" ,Desarrollador Full-Stack 🌘 <h3>
 
-<h2 align="center"> 🪵Acerca De Mi</h2>
+<h2 align="center"> 🪵Acerca De Mi🪵</h2>
 
 ```rust
 use std::net::{IpAddr, Ipv6Addr};
