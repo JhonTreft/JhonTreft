@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./assets/treft-programming-hat-avatar.png"
+  <img src="./treft-programming-hat-avatar.png"
        width="85"
        height="85"
        align="center"
