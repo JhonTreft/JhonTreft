@@ -10,9 +10,6 @@
 <h3 align="center">
   TREFT · Senior Full-Stack Developer · Software Engineer
 </h3>
- 
- <h1 align="center">👾 JHON STIVEN CAICEDO</h1>
-<h3 align="center">Senior Full-Stack Developer | Software Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Building+Scalable+Digital+Solutions;Full-Stack+Development;Backend+Architecture+%26+APIs;AI+Integration+%26+Automation" alt="Typing SVG" />
