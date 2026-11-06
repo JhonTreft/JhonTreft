@@ -1,3 +1,16 @@
+<h1 align="center">
+  <img src="./assets/treft-programming-hat-avatar.png"
+       width="85"
+       height="85"
+       align="center"
+       alt="Treft Programming Hat" />
+  JHON STIVEN CAICEDO MOSQUERA
+</h1>
+
+<h3 align="center">
+  TREFT · Senior Full-Stack Developer · Software Engineer
+</h3>
+ 
  <h1 align="center">👾 JHON STIVEN CAICEDO</h1>
 <h3 align="center">Senior Full-Stack Developer | Software Engineer</h3>
 
